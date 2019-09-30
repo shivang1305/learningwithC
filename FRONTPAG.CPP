@@ -4,6 +4,7 @@
 
 int main()
 {
+ cout<<"Welcome";
 clrscr();
  int i,j;
  for(i=1;i<=80;i++)
